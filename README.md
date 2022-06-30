@@ -16,3 +16,4 @@
 ```roslaunch rosbridge_server rosbridge_websocket.launch``` 
 3. run the downloaded dataset with provided .launch file:  
 ``roslaunch tum_rgbd_to_pcd.launch [bag_file_path]``
+4. run the unity scene
