@@ -1,0 +1,6 @@
+[submodule "ROSBridgeLib"]
+	path = ROSBridgeLib
+	url = https://github.com/tomhruby1/ROSBridgeLib
+[submodule "unity_voxel_raycast"]
+	path = unity_voxel_raycast
+	url = https://github.com/tomhruby1/unity_voxel_raycast
